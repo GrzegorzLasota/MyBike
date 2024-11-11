@@ -1,0 +1,29 @@
+.header {
+  background-color: black;
+  min-height: 480px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-image: url("../../images/header.jpg");
+  background-repeat: no-repeat;
+}
+
+.main-navigation {
+  min-height: 86px;
+  padding: 24px 20px 0;
+  box-sizing: border-box;
+
+  &__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 86px;
+  }
+
+  &__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+  }
+}

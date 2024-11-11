@@ -1,0 +1,17 @@
+@use "./utils/reset.scss";
+
+@use "./blocks/content.scss";
+@use "./blocks/header.scss";
+@use "./blocks/footer.scss";
+@use "./blocks/title.scss";
+@use "./blocks/adress.scss";
+@use "./blocks/buttoninput.scss";
+@use "./blocks/section.scss";
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  background-color: #1d1d1d;
+  color: #fff;
+}

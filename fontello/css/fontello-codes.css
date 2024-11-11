@@ -1,0 +1,18 @@
+
+.icon-ok:before { content: '\e800'; } /* '' */
+.icon-ok-circled:before { content: '\e801'; } /* '' */
+.icon-cancel:before { content: '\e802'; } /* '' */
+.icon-home:before { content: '\e803'; } /* '' */
+.icon-pin:before { content: '\e804'; } /* '' */
+.icon-phone:before { content: '\e805'; } /* '' */
+.icon-road:before { content: '\e806'; } /* '' */
+.icon-facebook:before { content: '\e807'; } /* '' */
+.icon-left-circled:before { content: '\f0a8'; } /* '' */
+.icon-right-circled:before { content: '\f0a9'; } /* '' */
+.icon-money:before { content: '\f0d6'; } /* '' */
+.icon-ok-squared:before { content: '\f14a'; } /* '' */
+.icon-youtube-squared:before { content: '\f166'; } /* '' */
+.icon-motorcycle:before { content: '\f21c'; } /* '' */
+.icon-whatsapp:before { content: '\f232'; } /* '' */
+.icon-hourglass-2:before { content: '\f252'; } /* '' */
+.icon-user-circle-o:before { content: '\f2be'; } /* '' */
