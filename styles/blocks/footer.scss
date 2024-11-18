@@ -1,11 +1,13 @@
 .footer {
   padding-top: 70px;
 
-  &__section {
-    padding: 0 20px;
+  &__photo {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
   }
 }
 
-.figure--footer {
+.footer__figure {
   padding-top: 120px;
 }
